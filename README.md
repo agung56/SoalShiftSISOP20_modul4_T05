@@ -4,7 +4,7 @@
 2. Agung Mulyono            (05311840000035)
 
 
-# Script Soal Nomor 4
+### Script Soal Nomor 4
 ```c
 static const char *logpath = "/home/lab/Documents/LAB/fuse.log";
 
@@ -42,7 +42,7 @@ time_t t;
 
   fclose(f);
 ```
-### Penjelasan Script Soal Nomor 4
+#### Penjelasan Script Soal Nomor 4
 ```c
 static const char *logpath = "/home/lab/Documents/LAB/fuse.log";
 ```
