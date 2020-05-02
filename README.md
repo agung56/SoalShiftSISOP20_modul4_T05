@@ -1,3 +1,9 @@
+# SoalShiftSISOP20_modul4_T05
+#### Anggota Kelompok:
+1. I Gede Pradhana Indra W. (05311840000031)
+2. Agung Mulyono            (05311840000035)
+
+
 # Script Soal Nomor 4
 ```c
 static const char *logpath = "/home/lab/Documents/LAB/fuse.log";
