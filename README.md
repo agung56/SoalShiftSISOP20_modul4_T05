@@ -3,7 +3,7 @@
 1. I Gede Pradhana Indra W. (05311840000031)
 2. Agung Mulyono            (05311840000035)
 
-### Script Soal Nomor 1
+### Soal Nomor 1
 Source Code : [ssfs.c](https://github.com/agung56/SoalShiftSISOP20_modul4_T05/blob/master/ssfs.c)
 
 **Pembahasan**  
